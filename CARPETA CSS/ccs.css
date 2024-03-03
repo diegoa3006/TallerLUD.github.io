@@ -1,3 +1,10 @@
+.titleNavbar{
+  background-color: red;
+  padding: 18px 20px;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
 
 .footer-title{
     background-color: red;

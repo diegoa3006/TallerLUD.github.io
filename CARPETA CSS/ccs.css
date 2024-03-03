@@ -19,10 +19,24 @@
   width: 550px;
   height: 300px; 
 }
+.btnBiografia{
+  background-color: red;
+  color: white;
+  padding: 16px 50px;
+}
+.boton{
+  text-align: center;
+  padding: 20px;
+}
+
 .footer-title{
     background-color: red;
     padding: 40px 20px;
     display: flex;
     justify-content: center;
     color: white;
+}
+
+.elementomargenIndex {
+  margin: 10px 10px 0px 10px;
 }

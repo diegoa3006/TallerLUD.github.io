@@ -5,7 +5,20 @@
   justify-content: center;
   color: white;
 }
+.recuadro {
+  width: 800px;                   /* Ancho del recuadro */
+  height: 300px;                  /* Alto del recuadro */
+  border: 2px solid gainsboro; /* Borde de 2 píxeles de grosor, estilo sólido y color negro */
+  background-color: rgb(255, 255, 255); /* Color de fondo del recuadro */
+  padding: 50px ;                 /* Espacio interno para separar el contenido del borde */
+  margin: 0 auto;                 /* Auto para centrar horizontalmente */
+  text-align: center;     
+}
 
+.imagenAjustada{
+  width: 550px;
+  height: 300px; 
+}
 .footer-title{
     background-color: red;
     padding: 40px 20px;
